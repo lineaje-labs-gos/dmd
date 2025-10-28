@@ -1,10 +1,19 @@
 {
   "name": "dmd",
   "author": "Lloyd Brookes <75pound@gmail.com>",
-  "version": "5.0.2",
+  "version": "5.0.2-lineaje-01",
   "description": "The default output template for jsdoc-to-markdown",
   "license": "MIT",
-  "repository": "https://github.com/jsdoc2md/dmd",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/dmd"
+  },
   "keywords": [
     "documentation",
     "markdown"
